@@ -1,0 +1,15 @@
+{
+    "users": [
+        { "id": 1, "name": "admin", "password": "admin", "isAuth": false },
+        { "id": 2, "name": "user", "password": "user", "isAuth": false }
+    ],
+    "products": [
+        { "id": 1, "title": "Bread", "price": 50, "shelfLife": "14.12.2019", "category": "food" },
+        { "id": 2, "title": "milk", "price": 80, "shelfLife": "14.12.2019", "category": "food" },
+        { "id": 1, "title": "Coat", "price": 500, "shelfLife": "14.12.2019", "category": "clothes" }
+    ],
+    "categories": [
+        { "id": 1, "title": "clothes" },
+        { "id": 2, "title": "food" }
+    ]
+}

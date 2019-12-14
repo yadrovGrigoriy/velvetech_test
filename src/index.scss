@@ -1,0 +1,14 @@
+header,
+footer {
+    height: 50px;
+    background-color: #ccc;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    &--home {
+        font-size: 50px;
+        margin: 30px 0;
+    }
+}
