@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
- #### auth info [db.json](https://github.com/yadrovGrigoriy/velvetech_test/blob/master/db.json)
+ ### auth info [db.json](https://github.com/yadrovGrigoriy/velvetech_test/blob/master/db.json)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
