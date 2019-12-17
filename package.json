@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
         "antd": "^3.26.2",
+        "axios": "^0.19.0",
         "bootstrap": "^4.4.1",
         "json-server": "^0.15.1",
         "node-sass": "^4.13.0",
@@ -17,7 +18,7 @@
         "redux": "^4.0.4"
     },
     "scripts": {
-        "start": "react-scripts start & json-server --watch db.json --port 3004",
+        "start": "react-scripts start & json-server --watch db.json  --port 3004",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"

@@ -1,15 +1,74 @@
 {
-    "users": [
-        { "id": 1, "name": "admin", "password": "admin", "isAuth": false },
-        { "id": 2, "name": "user", "password": "user", "isAuth": false }
-    ],
-    "products": [
-        { "id": 1, "title": "Bread", "price": 50, "shelfLife": "14.12.2019", "category": "food" },
-        { "id": 2, "title": "milk", "price": 80, "shelfLife": "14.12.2019", "category": "food" },
-        { "id": 1, "title": "Coat", "price": 500, "shelfLife": "14.12.2019", "category": "clothes" }
-    ],
-    "categories": [
-        { "id": 1, "title": "clothes" },
-        { "id": 2, "title": "food" }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.ru",
+      "password": "admin",
+      "isAuth": false
+    },
+    {
+      "id": 2,
+      "name": "user@user.ru",
+      "password": "user",
+      "isAuth": false
+    }
+  ],
+  "products": [
+    {
+      "title": "ertertert",
+      "price": "4",
+      "shelfLife": "2019-11-17",
+      "category": "food",
+      "id": 1
+    },
+    {
+      "title": "eyrytutryur",
+      "price": "56",
+      "shelfLife": "2019-11-17",
+      "category": "clothes",
+      "id": 2
+    },
+    {
+      "title": "678678678",
+      "price": "678",
+      "shelfLife": "2019-11-17",
+      "category": "asdf",
+      "id": 3
+    },
+    {
+      "title": "вапвыаывапывап",
+      "price": "500000",
+      "shelfLife": "2019-11-27",
+      "category": "food",
+      "id": 6
+    },
+    {
+      "title": "ывввв",
+      "price": "45",
+      "shelfLife": "2019-11-18",
+      "category": "food",
+      "id": 7
+    },
+    {
+      "title": "asdasdasd",
+      "price": "23333",
+      "shelfLife": "2019-11-28",
+      "category": "food",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "asdasd"
+    },
+    {
+      "id": 2,
+      "title": "food"
+    },
+    {
+      "title": "asdf",
+      "id": 3
+    }
+  ]
 }
